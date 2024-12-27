@@ -5,9 +5,9 @@
 ## Sobre Mim
 
 - 🎓 **Idade:** 20 anos
-- 💻 **Estudante:** 6º período de Ciência da Computação
+- 💻 **Estudante:** 7º período de Ciência da Computação
 - 💼 **Atualmente:** Estagiário de Suporte, trabalhando com automação de testes usando Cypress
-- 🌐 **Desenvolvedor Web:** Apaixonado por desenvolvimento full stack
+- 🌐 **Desenvolvedor Back-end:** 
 - 🚀 **Estudando:** Java com Spring Boot para o desenvolvimento de APIs
 
 ---
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/C%23-%23239D00.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-%23007ACC.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </div>
 
 ---
