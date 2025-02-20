@@ -40,15 +40,15 @@ Estou focado em expandir minhas habilidades tanto em front-end quanto em back-en
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zahehn1&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahehn1&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCSCunha&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCSCunha&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
 ---
 ## Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-cabral-cunha/)
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zahehn1)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelCSCunha)
 
 
 <div align="center">
