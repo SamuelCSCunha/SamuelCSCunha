@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-- 🎓 **Idade:** 20 anos
+- 🎓 **Idade:** 21 anos
 - 💻 **Estudante:** 7º período de Ciência da Computação
 - 💼 **Atualmente:** Estagiário de Suporte, trabalhando com automação de testes usando Cypress
 - 🌐 **Desenvolvedor Back-end:** 
